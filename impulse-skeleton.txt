@@ -1,0 +1,6 @@
+"impulse-skeleton"
+{
+	"base"		"impulse"
+	"title"		"impulse: Skeleton"
+	"author"	"nick"
+}

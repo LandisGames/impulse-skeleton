@@ -1,0 +1,1 @@
+-- You can name a file in the base path "bootcontroller.lua" to handle loading the plugin if u prefer that instead of default loading.

@@ -1,2 +1,2 @@
 # impulse-skeleton
-Skeleton for the impulse framework.
+A skeleton schema for the impulse framework

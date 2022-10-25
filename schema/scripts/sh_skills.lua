@@ -1,0 +1,6 @@
+impulse.Skills.Define("craft", "Crafting")
+impulse.Skills.Define("strength", "Strength")
+impulse.Skills.Define("lockpick", "Lockpicking")
+impulse.Skills.Define("tailor", "Tailoring")
+impulse.Skills.Define("scrapping", "Scrapping")
+impulse.Skills.Define("weapon","Weaponsmithing")
