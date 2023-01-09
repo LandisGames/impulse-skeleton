@@ -97,6 +97,7 @@ impulse.Config.DonateURL = "https://panel.landis-community.com/index.php?t=shop"
 impulse.Config.DiscordURL = "https://discord.gg/landis"
 impulse.Config.SupportURL = "https://support.landis-community.com/" -- this can just be the forum url
 impulse.Config.DiscordRelayURL = "" -- not required
+impulse.Config.ReqwestDiscordWebhookURL = "" -- your discord webhook. For this also to work you need to install https://github.com/WilliamVenner/gmsv_reqwest
 impulse.Config.RulesURL = ""
 impulse.Config.TutorialURL = ""
 
